@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "slidev build --base /slidev",
+    "build": "slidev build --base /slides",
     "dev": "slidev",
     "export": "slidev export"
   },
