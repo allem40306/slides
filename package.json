@@ -8,9 +8,10 @@
   "dependencies": {
     "@slidev/cli": "^0.28.10",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*",
-    "playwright-chromium": "^1.20.1"
+    "@slidev/theme-seriph": "*"
   },
   "name": "slidev",
-  "devDependencies": {}
+  "devDependencies": {
+    "playwright-chromium": "^1.20.1"
+  }
 }
